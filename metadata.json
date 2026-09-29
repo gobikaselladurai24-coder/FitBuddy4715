@@ -1,0 +1,6 @@
+{
+  "name": "FitBuddy",
+  "description": "AI-powered personalized 7-day workout and fitness plan generator with intelligent feedback adjustments and interactive routine tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
